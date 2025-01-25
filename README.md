@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahichauhan&label=Profile%20views&color=0e75b6&style=flat" alt="rahichauhan" /> </p>
 
-- 🔭 I’m currently working on [Blog-Website](https://github.com/Rahichauhan/Blog-Website2)
-
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Rahichauhan/Portfolio-Github-actions](https://github.com/Rahichauhan/Portfolio-Github-actions)
 
 - 📫 How to reach me **rahichauhan37@gmail.com**
